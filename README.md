@@ -26,11 +26,16 @@ Develop enterprise-grade conversational AI experiences while maintaining control
 
 ![azure6](https://user-images.githubusercontent.com/72246796/149801634-39ac32b6-6df8-4b11-9240-b5eac0884602.PNG)
 
-Deployed Model in Azure while testing.
+# Deployed Model in Azure while testing.
 
 ![Azure2](https://user-images.githubusercontent.com/72246796/149801736-cfbdf84d-3607-4a3e-aae0-6a6be71ada23.PNG)
 
-UI Interface designed for easy navigation of the Bot.
+# Azure Cognitive Services
+
+![image](https://user-images.githubusercontent.com/72246796/149822196-dd5d657b-ab98-4ee2-8162-fd3ac1ffdf10.png)
+
+
+# UI Interface designed for easy navigation of the Bot.
 
 
 ![Azure3](https://user-images.githubusercontent.com/72246796/149801926-18d71e01-8cc6-471f-979d-2a20d4b1acb1.PNG)
