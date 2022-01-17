@@ -1,7 +1,7 @@
 # QnA-Health-Bot-for-Covid-19
 A chat bot that solves all common queries related to covid-19 with suggestive methods and solution with help of Azure Bot Service. Basically the main motive is solve FAQs and common issues or queries of the people. Now this services are made and deployed with the help of the Azure Bot Service and QnAMaker, with a easy UI.
 
-Bot Framework v4 QnA Maker bot sample. This sample shows how to integrate Multiturn and Active learning in a QnA Maker bot with ASP.Net Core-2. Click [here][72] to know more about using follow-up prompts to create multiturn conversation. To know more about how to enable and use active learning, click [here][71].
+Bot Framework v4 QnA Maker bot sample. This sample shows how to integrate Multiturn and Active learning in a QnA Maker bot with ASP.Net Core-2. 
 
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a bot that uses the [QnA Maker Cognitive AI](https://www.qnamaker.ai) service.
 
