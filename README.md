@@ -1,6 +1,6 @@
 # QnA-Health-Bot-for-Covid-19
 
-In this modern Era, with the current pandemic scenario, every person must know about the importance of health safety and precaution to be taken to prevent from themselves from infection of Corona virus. Hence, I have made an QnA Bot that answers all the Queries related to Covid-19, vaccination and other health FAQs.
+In this modern Era, with the current pandemic scenario, every person must know about the importance of health safety and precaution to be taken to prevent themselves, from infection of Corona virus. Hence, I have made an QnA Bot that answers all the Queries related to Covid-19, vaccination and other health FAQs.
 
 # Summary
 
