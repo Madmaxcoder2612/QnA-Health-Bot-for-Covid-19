@@ -1,4 +1,16 @@
 # QnA-Health-Bot-for-Covid-19
+
+In this modern Era, with the current pandemic scenario, every person must know about the importance of health safety and precaution to be taken to prevent from themselves from infection of Corona virus. Hence, I have made an QnA Bot that answers all the Queries related to Covid-19, vaccination and other health FAQs.
+
+# Summary
+
+1.) The core idea of this project is to solve FAQs of the people regarding the Covid-19 and help them to get solved their common question and queries related to Covid-19 with suggestive methods by the Bot.
+2.)The main problem is the lack of knowledge that people have regarding the covid-19 pandemic. Hence through this Bot service, I am trying to help them answer thier FAQs related to it. 
+3.)Many of the simple Medical websites or any Health app must contain this types of bots, to help people easily get thier common issues solved regarding Covid-19. 
+4.) The purpose of the project is mapped to the problem statement, cleary the main motiive is to solve common issues of people and make them stress free.
+
+# Defination
+
 A chat bot that solves all common queries related to covid-19 with suggestive methods and solution with help of Azure Bot Service. Basically the main motive is solve FAQs and common issues or queries of the people. Now this services are made and deployed with the help of the Azure Bot Service and QnAMaker, with a easy UI.
 
 Bot Framework v4 QnA Maker bot sample. This sample shows how to integrate Multiturn and Active learning in a QnA Maker bot with ASP.Net Core-2. 
