@@ -2,6 +2,10 @@
 
 In this modern Era, with the current pandemic scenario, every person must know about the importance of health safety and precaution to be taken to prevent themselves, from infection of Corona virus. Hence, I have made an QnA Bot that answers all the Queries related to Covid-19, vaccination and other health FAQs.
 
+# QnA-Health-Bot-for-Covid-19 Project URL
+
+URL - https://sites.google.com/view/qna-health-bot-covid19/home
+
 # Summary
 
 1.) The core idea of this project is to solve FAQs of the people regarding the Covid-19 and help them to get solved their common question and queries related to Covid-19 with suggestive methods by the Bot.
